@@ -1,0 +1,64 @@
+2026-01-12 00:53:39,872 - INFO - Summarization Prompt:
+
+Summarize the following text in a clear and concise manner:
+
+Generative Artificial Intelligence refers to AI systems that can create new content such as text, images, audio, and code based on user input. These systems use large language models trained on vast amounts of data to understand patterns and generate human-like responses. Generative AI is widely used in applications like chatbots, automated content creation, text summarization, and recommendation systems. While these technologies improve productivity and creativity, they also raise concerns related to data privacy, misinformation, and ethical usage. Therefore, careful design, evaluation, and responsible deployment of generative AI systems are essential.
+
+2026-01-12 00:53:39,890 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-12 00:53:52,975 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-01-12 00:53:53,058 - INFO - Generated Summary:
+Generative AI systems create new content such as text, images, and code using large language models trained on vast data. They are used in applications like chatbots, content creation, and summarization. While enhancing productivity and creativity, these systems also raise concerns regarding data privacy, misinformation, and ethics, making responsible design and deployment essential.
+2026-01-12 00:53:53,058 - INFO - Keyword Extraction Prompt:
+
+Extract 5 to 7 important keywords from the following summary.
+Return only the keywords as a comma-separated list.
+
+Summary:
+Generative AI systems create new content such as text, images, and code using large language models trained on vast data. They are used in applications like chatbots, content creation, and summarization. While enhancing productivity and creativity, these systems also raise concerns regarding data privacy, misinformation, and ethics, making responsible design and deployment essential.
+
+2026-01-12 00:53:53,058 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-12 00:53:56,597 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-01-12 00:53:56,601 - INFO - Generated Keywords: ['Generative AI', 'Large Language Models', 'Content Creation', 'Chatbots', 'Data Privacy', 'Misinformation', 'Ethics']
+2026-01-12 01:10:22,447 - INFO - Summarization Prompt:
+
+Summarize the following text in a clear and concise manner:
+
+Generative Artificial Intelligence refers to AI systems that can create new content such as text, images, audio, and code based on user input. These systems use large language models trained on vast amounts of data to understand patterns and generate human-like responses. Generative AI is widely used in applications like chatbots, automated content creation, text summarization, and recommendation systems. While these technologies improve productivity and creativity, they also raise concerns related to data privacy, misinformation, and ethical usage. Therefore, careful design, evaluation, and responsible deployment of generative AI systems are essential.
+
+2026-01-12 01:10:22,451 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-12 01:10:28,602 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-01-12 01:10:28,623 - INFO - Generated Summary:
+Generative Artificial Intelligence (AI) systems use large language models trained on vast data to create new content like text, images, audio, and code from user input. While widely applied in areas such as chatbots and content creation to enhance productivity and creativity, they also bring concerns regarding data privacy, misinformation, and ethical usage. Therefore, responsible design and deployment are essential.
+2026-01-12 01:10:28,624 - INFO - Keyword Extraction Prompt:
+
+Extract 5 to 7 important keywords from the following summary.
+Return only the keywords as a comma-separated list.
+
+Summary:
+Generative Artificial Intelligence (AI) systems use large language models trained on vast data to create new content like text, images, audio, and code from user input. While widely applied in areas such as chatbots and content creation to enhance productivity and creativity, they also bring concerns regarding data privacy, misinformation, and ethical usage. Therefore, responsible design and deployment are essential.
+
+2026-01-12 01:10:28,624 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-12 01:10:31,968 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-01-12 01:10:31,970 - INFO - Generated Keywords: ['Generative AI', 'Large language models', 'Content creation', 'Data privacy', 'Misinformation', 'Ethical usage', 'Responsible design']
+2026-01-12 01:15:19,364 - INFO - Summarization Prompt:
+
+Summarize the following text in a clear and concise manner:
+
+Generative Artificial Intelligence is a branch of AI that focuses on creating new content such as text, images, audio, and code. It uses large language models trained on massive datasets to understand context and generate meaningful outputs. Generative AI is widely applied in chatbots, document summarization, recommendation systems, and automated content creation. Despite its benefits, it introduces challenges related to data privacy, ethical concerns, and misinformation. Therefore, responsible development and evaluation of generative AI systems are essential to ensure safe and effective usage.
+
+2026-01-12 01:15:19,375 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-12 01:15:25,810 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-01-12 01:15:25,834 - INFO - Generated Summary:
+Generative Artificial Intelligence is an AI branch that creates new content (text, images, audio, code) by using large language models trained on massive datasets to understand context and generate outputs. It is widely applied in chatbots, summarization, recommendation systems, and automated content creation. However, Generative AI also poses challenges related to data privacy, ethical concerns, and misinformation, necessitating responsible development and evaluation for safe and effective usage.
+2026-01-12 01:15:25,837 - INFO - Keyword Prompt:
+
+Extract 5 to 7 important keywords from the following summary.
+Return only the keywords as a comma-separated list.
+
+Summary:
+Generative Artificial Intelligence is an AI branch that creates new content (text, images, audio, code) by using large language models trained on massive datasets to understand context and generate outputs. It is widely applied in chatbots, summarization, recommendation systems, and automated content creation. However, Generative AI also poses challenges related to data privacy, ethical concerns, and misinformation, necessitating responsible development and evaluation for safe and effective usage.
+
+2026-01-12 01:15:25,838 - INFO - AFC is enabled with max remote calls: 10.
+2026-01-12 01:15:30,483 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 200 OK"
+2026-01-12 01:15:30,484 - INFO - Generated Keywords: ['Generative AI', 'Large Language Models', 'Content Generation', 'Applications', 'Data Privacy', 'Ethical Concerns', 'Misinformation']
+2026-01-12 01:15:30,499 - INFO - Results saved to text and JSON files
